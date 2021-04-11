@@ -1,4 +1,4 @@
-# searchableRecyclerView
+# Searchable RecyclerView
 A searchable recycler view
 <br/>
 # Demo : 
